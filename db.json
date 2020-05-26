@@ -1,0 +1,7 @@
+[{
+  "Items": [
+    { "id": 1, "title": "Item 1", "Price": "10 KWD", "Image": "https://cdn.shopify.com/s/files/1/0075/1117/9353/products/ZZ-C-B_1000x1000.jpg?v=1563259094" },
+    { "id": 2, "title": "Item 2", "Price": "15 KWD", "Image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/spider-plant-1560888836.jpg?crop=1xw:1xh;center,top&resize=480:*" },
+    { "id": 3, "title": "Item 3", "Price": "20 KWD", "Image": "https://images.homedepot-static.com/productImages/e6b7602d-9e65-4b5e-8fd7-c83055db3565/svn/costa-farms-house-plants-10pan-64_1000.jpg" }
+  ]
+}]
